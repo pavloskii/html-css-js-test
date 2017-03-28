@@ -1,0 +1,6 @@
+- Ke ima 4 page-a: 
+	1.Index(kaj so ke se kamerite i informaciite za parkinzite). *admin
+	2.Add a parking (kaj sto ke moze da se dodade parking). *admin
+	3.Subscription ili loyalty page(kaj so ke moze da se vidi listat a i da se dodade nova kola sto ima plateno za cela godina).*admin
+	4.Strana kaj sto ke se pojavuvaat kolite so neplaten parking i do niv ke ima checkbox koj sto posle stiklirka ke se smeta 
+	  za platen parking.(ova ke moze da go koristi samo user koj se najavil kako rabotnik na parkingot).*parking worker
